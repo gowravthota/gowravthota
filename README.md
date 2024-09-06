@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Computational Perception & Data Analysis**
 
-- 📫 How to reach me **gtthota@gmail.com**
+- 📫 How to reach me **gthota6@gatech.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
