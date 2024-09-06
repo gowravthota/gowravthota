@@ -1,11 +1,14 @@
-<h1 align="center">Hi 👋, I'm Gowrav Thota</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Gowrav+Thota;Welcome+to+my+profile!&center=true&size=30">
+</h1>
+
 <h3 align="center">Robotics & AI @ Georgia Tech</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowravthota" alt="gowravthota" /></a> </p>
 
-- 🔭 I’m currently working on [PetReady](https://petready.app)
+- 🔭 I'm currently working on [PetReady](https://petready.app)
 
-- 🌱 I’m currently learning **Computational Perception & Data Analysis**
+- 🌱 I'm currently learning **Computational Perception & Data Analysis**
 
 - 📫 How to reach me **gtthota@gmail.com**
 
