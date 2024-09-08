@@ -4,7 +4,7 @@
 
 <h3 align="center">Robotics & AI @ Georgia Tech</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowravthota" alt="gowravthota" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowravthota&theme=darkhub&margin-w=10&margin-h=10&column=-1" alt="gowravthota" /></a> </p>
 
 - 🔭 I'm currently working on [PetReady](https://petready.app)
 
