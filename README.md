@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Gowrav+Thota;Welcome+to+my+profile!&center=true&size=30">
-</h1>
-
 <h3 align="center">Robotics & AI @ Georgia Tech</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowravthota&theme=darkhub&margin-w=10&margin-h=10&column=-1" alt="gowravthota" /></a> </p>
